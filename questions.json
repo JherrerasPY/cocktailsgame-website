@@ -1,0 +1,341 @@
+
+[
+  {
+    "question": "In which glass is the cocktail 'Cleo's Princess Punch' typically served?",
+    "choice1": "Milkshake cup",
+    "choice2": "Flute",
+    "choice3": "Coupe",
+    "choice4": "Hurricane",
+    "answer": 1
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the mocktail 'Astro's Brain Freeze'?",
+    "choice1": "3/4 fill glass with ice",
+    "choice2": "Soft drink choice",
+    "choice3": "Top with icecream",
+    "choice4": "None of the above",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Falernum Syrup are used in the mocktail 'Dusty's Pineapple'?",
+    "choice1": "45 ml",
+    "choice2": "15 ml",
+    "choice3": "30 ml",
+    "choice4": "60 ml",
+    "answer": 1
+  },
+  {
+    "question": "What is the garnish used in the mocktail 'Cool Cucumber Tonic'?",
+    "choice1": "Marshmellow's",
+    "choice2": "Sprinkles",
+    "choice3": "Cucumber Peel",
+    "choice4": "Dehydrated Lemon",
+    "answer": 3
+  },
+  {
+    "question": "Which glass is typically used for the cocktail 'White Peach Bellini'?",
+    "choice1": "Flute",
+    "choice2": "Margarita or flashing martini glass",
+    "choice3": "Coupe",
+    "choice4": "Crystal Rock",
+    "answer": 1
+  },
+  {
+    "question": "What is the ingredient that does not correspond to the cocktail 'Moscow Mule'?",
+    "choice1": "Lime Juice",
+    "choice2": "2 Lime wedges",
+    "choice3": "3 Dash bitters",
+    "choice4": "Mango puree",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Passion Fruit Pulp are used in the cocktail 'Tropical Almond Mai Tai'?",
+    "choice1": "60 ml",
+    "choice2": "30 ml",
+    "choice3": "45 ml",
+    "choice4": "20 ml",
+    "answer": 3
+  },
+  {
+    "question": "What is the garnish used in the cocktail 'Biscoff Pie'?",
+    "choice1": "Chocolate & cream",
+    "choice2": "Biscoff crumbs",
+    "choice3": "Dehydrated Lime",
+    "choice4": "3 Marshmellow",
+    "answer": 2
+  },
+  {
+    "question": "Which glass is typically used for the cocktail 'Mojito'?",
+    "choice1": "Margarita or flashing martini glass",
+    "choice2": "Coupe",
+    "choice3": "Crystal Highball",
+    "choice4": "Hurricane",
+    "answer": 3
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the cocktail 'Negroni'?",
+    "choice1": "Gin",
+    "choice2": "Campari",
+    "choice3": "Sweet vermouth",
+    "choice4": "Orange Zest",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Triple sec are used in the cocktail 'Red Sangría'?",
+    "choice1": "200 ml",
+    "choice2": "45 ml",
+    "choice3": "15 ml",
+    "choice4": "30 ml",
+    "answer": 3
+  },
+  {
+    "question": "What is the garnish used in the mocktail 'Virgin Kiwi Mojito'?",
+    "choice1": "Dehydrated Lemon",
+    "choice2": "Sprinkles",
+    "choice3": "3 pineapple lollies",
+    "choice4": "Mint Sprig",
+    "answer": 1
+  },
+  {
+    "question": "Which glass is typically used for the cocktail 'Espresso Martini'?",
+    "choice1": "Coupe",
+    "choice2": "Crystal Highball",
+    "choice3": "Martini",
+    "choice4": "Hurricane",
+    "answer": 3
+  },
+  {
+    "question": "What is the ingredient that does not correspond to the mocktail 'Red Sangría Jug'?",
+    "choice1": "Red wine",
+    "choice2": "Vanilla liq",
+    "choice3": "Triple sec",
+    "choice4": "Soda water",
+    "answer": 2
+  },
+  {
+    "question": "How many milliliters of Green Apple liq are used in the cocktail 'Green Gin Mojito'?",
+    "choice1": "30 ml",
+    "choice2": "20 ml",
+    "choice3": "60 ml",
+    "choice4": "45 ml",
+    "answer": 1
+  },
+  {
+    "question": "What is the garnish used in the cocktail 'Italina Spritz'?",
+    "choice1": "1/2 moon orange slice",
+    "choice2": "Dehydrated Lemon",
+    "choice3": "Frozen Berries",
+    "choice4": "No Garnish",
+    "answer": 1
+  },
+  {
+    "question": "Which glass is typically used for the cocktail 'Long Island Iced Tea'?",
+    "choice1": "Hurricane",
+    "choice2": "Crystal Rock",
+    "choice3": "Coupe",
+    "choice4": "Martini",
+    "answer": 1
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the mocktail 'Dusty's Pineapple'?",
+    "choice1": "Lemon Juice",
+    "choice2": "Pineapple juice",
+    "choice3": "Falernum Syrup",
+    "choice4": "Top with Sode",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Triple sec are used in the cocktail 'PiÃ±a colada'?",
+    "choice1": "60 ml",
+    "choice2": "30 ml",
+    "choice3": "45 ml",
+    "choice4": "20 ml",
+    "answer": 1
+  },
+  {
+    "question": "What is the garnish used in the cocktail 'Very Berry Cosmo'?",
+    "choice1": "Dehydrated Lemon",
+    "choice2": "3 coffe beans",
+    "choice3": "Flamed orange zest",
+    "choice4": "Frozen berries",
+    "answer": 4
+  },
+  {
+    "question": "Which glass is typically used for the mocktail 'Tropical Coconut Water'?",
+    "choice1": "Hurricane",
+    "choice2":
+
+ "Margarita glass",
+    "choice3": "Martini",
+    "choice4": "Crystal Highball",
+    "answer": 1
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the cocktail 'Gold coast bellini'?",
+    "choice1": "Mango puree",
+    "choice2": "Pineapple puree",
+    "choice3": "Mango liq",
+    "choice4": "House sparkling wein",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Chocolate syrup are used in the cocktail 'Toblerone'?",
+    "choice1": "45 ml",
+    "choice2": "15 ml",
+    "choice3": "30 ml",
+    "choice4": "60 ml",
+    "answer": 3
+  },
+  {
+    "question": "What is the garnish used in the cocktail 'Espresso Martini'?",
+    "choice1": "3 coffe beans",
+    "choice2": "Marshmellow's",
+    "choice3": "Chocolate & cream",
+    "choice4": "Dehydrated Lime",
+    "answer": 1
+  },
+  {
+    "question": "Which glass is typically used for the cocktail 'Green Gin Mojito'?",
+    "choice1": "Martini",
+    "choice2": "Margarita glass",
+    "choice3": "Coupe",
+    "choice4": "Crystal Highball",
+    "answer": 4
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the cocktail 'Negroni'?",
+    "choice1": "Sweet vermouth",
+    "choice2": "Gin",
+    "choice3": "Campari",
+    "choice4": "Orange zest",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Strawberry liq are used in the cocktail 'Very Berry Cosmo'?",
+    "choice1": "30 ml",
+    "choice2": "45 ml",
+    "choice3": "60 ml",
+    "choice4": "15 ml",
+    "answer": 3
+  },
+  {
+    "question": "What is the garnish used in the cocktail 'Espresso Martini'?",
+    "choice1": "3 coffe beans",
+    "choice2": "Dehydrated Lime",
+    "choice3": "Sweetness",
+    "choice4": "Espresso Coffee",
+    "answer": 1
+  },
+  {
+    "question": "Which glass is typically used for the mocktail 'Astro's Brain Freeze'?",
+    "choice1": "Margarita glass",
+    "choice2": "Flute",
+    "choice3": "Milkshake cup",
+    "choice4": "Crystal Rock",
+    "answer": 3
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the cocktail 'Big Apple Sour'?",
+    "choice1": "Lemon Juice",
+    "choice2": "Green Apple syrup",
+    "choice3": "Apple juice",
+    "choice4": "Top Soda",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Lemon juice are used in the cocktail 'Jack's Southern Peach Lemonade'?",
+    "choice1": "60 ml",
+    "choice2": "100 ml",
+    "choice3": "120 ml",
+    "choice4": "200 ml",
+    "answer": 3
+  },
+  {
+    "question": "What is the garnish used in the cocktail 'Sweet Manhattan'?",
+    "choice1": "Dehydrated Lime",
+    "choice2": "Maraschino cherry",
+    "choice3": "3 Dash bitter",
+    "choice4": "Chocolate & cream",
+    "answer": 2
+  },
+  {
+    "question": "Which glass is typically used for the mocktail 'Mango Chili Colada'?",
+    "choice1": "Martini",
+    "choice2": "Hurricane",
+    "choice3": "Crystal Highball",
+    "choice4": "Margarita glass",
+    "answer": 2
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the cocktail 'Negroni'?",
+    "choice1": "Gin",
+    "choice2": "Campari",
+    "choice3": "Sweet vermouth",
+    "choice4": "Orange zest",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Lemon Juice are used in the cocktail 'Very Berry Cosmo'?",
+    "choice1": "15 ml",
+    "choice2": "30 ml",
+    "choice3": "45 ml",
+    "choice4": "60 ml",
+    "answer": 2
+  },
+  {
+    "question": "What is the garnish used in the cocktail 'Espresso Martini'?",
+    "choice1": "Espresso liq",
+    "choice2": "Espresso Coffee",
+    "choice3": "Sweetness",
+    "choice4": "3 coffe beans",
+    "answer": 4
+  },
+  {
+    "question": "Which glass is typically used for the mocktail 'Astro's Brain Freeze'?",
+    "choice1": "Margarita glass",
+    "choice2": "Flute",
+    "choice3": "Milkshake cup",
+    "choice4": "Crystal Rock",
+    "answer": 3
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the cocktail 'Big Apple Sour'?",
+    "choice1": "Lemon Juice",
+    "choice2": "Green Apple syrup",
+    "choice3": "Apple juice",
+    "choice4": "Top Soda",
+    "answer": 4
+  },
+  {
+    "question": "How many milliliters of Lemon juice are used in the cocktail 'Jack's Southern Peach Lemonade'?",
+    "choice1": "60 ml",
+    "choice2": "100 ml",
+    "choice3": "120 ml",
+    "choice4": "200 ml",
+    "answer": 3
+  },
+  {
+    "question": "What is the garnish used in the cocktail 'Sweet Manhattan'?",
+    "choice1": "Dehydrated Lime",
+    "choice2": "Maraschino cherry",
+    "choice3": "3 Dash bitter",
+    "choice4": "Chocolate & cream",
+    "answer": 2
+  },
+  {
+    "question": "Which glass is typically used for the mocktail 'Mango Chili Colada'?",
+    "choice1": "Martini",
+    "choice2": "Hurricane",
+    "choice3": "Crystal Highball",
+    "choice4": "Margarita glass",
+    "answer": 2
+  },
+  {
+    "question": "Which ingredient does NOT correspond to the cocktail 'Negroni'?",
+    "choice1": "Gin",
+    "choice2": "Campari",
+    "choice3": "Sweet vermouth",
+    "choice4": "Orange zest",
+    "answer": 4
+  }
+]
